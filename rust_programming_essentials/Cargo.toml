@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "error_wrapping",
+    "async_error_wrapping",
+]
